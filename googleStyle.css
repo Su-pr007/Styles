@@ -1,4 +1,5 @@
 body{
-	background: url(https://i.imgur.com/tS2uDn4.gif) no-repeat;
+	background-image: url(https://i.imgur.com/tS2uDn4.gif);
+	background-size: no-repeat;
 	background-size: cover;
 }
